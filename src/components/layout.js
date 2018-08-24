@@ -1,6 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
 import Helmet from "react-helmet"
+// import "../../../node_modules/jquery/dist/jquery"
+// import "../../../node_modules/bootstrap/dist/js/bootstrap.bundle.min"
+import "jquery/dist/jquery";
+import "bootstrap/dist/js/bootstrap.bundle.min"
 
 import "./layout.css"
 

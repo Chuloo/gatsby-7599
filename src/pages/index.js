@@ -3,6 +3,7 @@ import React from "react"
 import { Link } from "gatsby"
 import TemplateWrapper from "../components/layout"
 
+
 const Index = ({ transition }) => (
   <TemplateWrapper>
     <div style={transition && transition.style}>

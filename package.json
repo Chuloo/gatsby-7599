@@ -4,9 +4,11 @@
   "version": "1.0.0",
   "author": "Steven Surgnier <stevensurgnier@gmail.com>",
   "dependencies": {
+    "bootstrap": "^4.1.3",
     "gatsby": "2.0.0-rc.0",
     "gatsby-plugin-react-helmet": "3.0.0-rc.0",
     "history": "^4.7.2",
+    "jquery": "^3.3.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0",
